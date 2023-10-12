@@ -1,0 +1,77 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),
+                       rgba(0, 0, 0, 0.5));
+    background-color: maroon;
+}
+.logo{
+    width: 500px;
+    height: 180px;
+    margin-left: 475px;
+}
+.retornar{
+    list-style: none;
+    color: white;
+    margin-top: -200px;
+    margin-left: -25px;
+}
+h1{
+    font-size: 35px;
+    color: white;
+    margin-left: 680px;
+    margin-top: 120px;
+}
+h3{
+    font-size: 30px;
+    text-align: justify;
+    margin-left: 55px;
+}
+li{
+    font-size: 20px;
+    margin: 15px;
+    list-style: none;
+}
+.comida1{
+    width: 720px;
+    height: 550px;
+    border-radius: 10px;
+    display: inline;
+}
+.cardapio1{
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: -552px;
+    float: right;
+    width: 760px;
+    color: white;
+    background-color: black;
+    height: 535px;
+}
+.comida2{
+    margin-top: 5px;
+    width: 770px;
+    height: 545px;
+    border-radius: 10px;
+    display: inline;
+    float: right;
+}
+.cardapio2{
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 5px;
+    float: left;
+    width: 713px;
+    color: white;
+    background-color: black;
+    height: 535px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+p{
+    color: white;
+    text-align: justify;
+    margin-top: 25px;
+    width: 1500px;
+}

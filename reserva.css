@@ -1,0 +1,39 @@
+body{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)), url(./imagens/fundo1.png);
+    font-family: 'Roboto', sans-serif;
+}
+.logo{
+    width: 500px;
+    height: 180px;
+    margin-left: 475px;
+}
+.retornar{
+    list-style: none;
+    color: white;
+    margin-top: -200px;
+    margin-left: -25px;
+}
+h1{
+    font-size: 35px;
+    color: white;
+    margin-left: 530px;
+    margin-top: 120px;
+}
+form{
+    margin-left: 550px;
+    border-radius: 10px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.48);
+    color: white;
+    width: 350px;
+    height: 350px;
+}
+.botao{
+    width: 80px;
+    height: 25px;
+    text-align: center;
+    border-radius: 10px;
+}
